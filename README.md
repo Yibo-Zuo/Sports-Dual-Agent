@@ -1,5 +1,5 @@
 
-# y# General Physical Education Teaching System
+# General Physical Education Teaching System
 
 An intelligent teaching system based on a knowledge graph and dual-agent regulation, designed to support structured instructional path generation and adaptive learning regulation.
 
