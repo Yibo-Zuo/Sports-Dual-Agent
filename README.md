@@ -1,6 +1,4 @@
-下面是英文版本，已尽量保留原有的 README/项目说明风格与结构。
 
-````md
 # y# General Physical Education Teaching System
 
 An intelligent teaching system based on a knowledge graph and dual-agent regulation, designed to support structured instructional path generation and adaptive learning regulation.
